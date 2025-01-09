@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AyushDeuja/React.git"
+    "url": "git+https://github.com/AyushDeuja/FoodDeliveryReact.git"
   },
   "keywords": [],
   "author": "Ayush Deuja",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AyushDeuja/React/issues"
+    "url": "https://github.com/AyushDeuja/FoodDeliveryReact/issues"
   },
-  "homepage": "https://github.com/AyushDeuja/React#readme",
+  "homepage": "https://github.com/AyushDeujaFoodDelivery/React#readme",
   "devDependencies": {
     "parcel": "^2.13.3",
     "process": "^0.11.10"
